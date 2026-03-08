@@ -2,3 +2,5 @@ target/
 ** /target/
 smartcontract/target/
 .soroban/
+config.bat
+node_modules
