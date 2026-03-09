@@ -4,3 +4,5 @@ smartcontract/target/
 .soroban/
 test_snapshots/
 proptest-regressions/
+config.bat
+node_modules
